@@ -4,8 +4,8 @@
       <removed_mapping ext="html" approved="true" type="HTML" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping ext="brief" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <mapping ext="html" type="Twig" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
