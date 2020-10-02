@@ -7,6 +7,5 @@
   </JSCodeStyleSettings>
   <PHPCodeStyleSettings>
     <option name="KEEP_RPAREN_AND_LBRACE_ON_ONE_LINE" value="true" />
-    <option name="SPACE_AROUND_ASSIGNMENT_IN_DECLARE" value="true" />
   </PHPCodeStyleSettings>
 </code_scheme>
